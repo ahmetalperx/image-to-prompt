@@ -17,6 +17,7 @@ The project can be viewed live at: [https://ahmetalper-image-to-prompt.hf.space]
 - **AI-Powered**: Utilizes state-of-the-art vision-language model for high-quality prompt generation
 - **User-Friendly Interface**: Simple web interface for easy image uploading and prompt retrieval
 - **Optimized Descriptions**: Creates structured prompts specifically designed for text-to-image generation systems
+- **Responsive Design**: Fully responsive interface that works seamlessly on desktop, tablet, and mobile devices
 
 ## Technology Stack
 
